@@ -2,6 +2,9 @@
 
 ShopEZ is a full-stack e-commerce application built using the MERN stack (MongoDB, Express, React, Node.js) as part of the Smart Bridge project. This application provides a seamless shopping experience for users, allowing them to browse, filter, and purchase products, as well as manage orders. It includes both user and admin functionalities.
 
+## Project Documentation
+          https://docs.google.com/document/d/1zy8-sG_ch97mSbCdiDvUFMrBUxUmUjHa/edit?usp=sharing&ouid=111932433501099888663&rtpof=true&sd=true
+
 ## Table of Contents
 1. [Project Structure](#project-structure)
 2. [Installation](#installation)
